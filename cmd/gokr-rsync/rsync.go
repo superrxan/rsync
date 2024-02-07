@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/gokrazy/rsync/internal/receivermaincmd"
+	"github.com/superrxan/rsync/internal/receivermaincmd"
 )
 
 func main() {

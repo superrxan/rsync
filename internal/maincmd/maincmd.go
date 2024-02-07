@@ -13,10 +13,10 @@ import (
 	"os"
 	"strings"
 
-	"github.com/gokrazy/rsync/internal/anonssh"
-	"github.com/gokrazy/rsync/internal/log"
-	"github.com/gokrazy/rsync/internal/rsyncdconfig"
-	"github.com/gokrazy/rsync/rsyncd"
+	"github.com/superrxan/rsync/internal/anonssh"
+	"github.com/superrxan/rsync/internal/log"
+	"github.com/superrxan/rsync/internal/rsyncdconfig"
+	"github.com/superrxan/rsync/rsyncd"
 
 	// For profiling and debugging
 	_ "net/http/pprof"

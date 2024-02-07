@@ -8,8 +8,8 @@ import (
 	"sort"
 	"time"
 
-	"github.com/gokrazy/rsync"
-	"github.com/gokrazy/rsync/internal/log"
+	"github.com/superrxan/rsync"
+	"github.com/superrxan/rsync/internal/log"
 )
 
 // rsync/flist.c:flist_sort_and_clean

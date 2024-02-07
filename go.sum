@@ -4,6 +4,8 @@ github.com/DavidGamba/go-getoptions v0.23.0 h1:j8q36PvconcXzKphnnOmmUcKGpcpHfbaA
 github.com/DavidGamba/go-getoptions v0.23.0/go.mod h1:qLaLSYeQ8sUVOfKuu5JT5qKKS3OCwyhkYSJnoG+ggmo=
 github.com/coreos/go-systemd v0.0.0-20191104093116-d3cd4ed1dbcf h1:iW4rZ826su+pqaw19uhpSCzhj44qo35pNgKFGqzDKkU=
 github.com/coreos/go-systemd v0.0.0-20191104093116-d3cd4ed1dbcf/go.mod h1:F5haX7vjVVG0kc13fIWeqUViNPyEJxv/OmvnBo0Yme4=
+github.com/gokrazy/rsync v0.1.0 h1:t5yooNfS8onG+tww2bzS2DpIlnAXfwa+X8xE1YfAKM4=
+github.com/gokrazy/rsync v0.1.0/go.mod h1:3WWx+tqBWyZnARQnhagbV83ZU61rIU11GFaAJDA56bk=
 github.com/google/go-cmp v0.5.6 h1:BKbKCqvP6I+rmFHt06ZmyQtvB8xAkWdhFyr0ZUNZcxQ=
 github.com/google/go-cmp v0.5.6/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/gNBxE=
 github.com/google/renameio/v2 v2.0.0 h1:UifI23ZTGY8Tt29JbYFiuyIU3eX+RNFtUwefq9qAhxg=

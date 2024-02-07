@@ -6,10 +6,10 @@ import (
 	"os"
 	"sort"
 
-	"github.com/gokrazy/rsync"
-	"github.com/gokrazy/rsync/internal/rsyncchecksum"
-	"github.com/gokrazy/rsync/internal/rsynccommon"
 	"github.com/mmcloughlin/md4"
+	"github.com/superrxan/rsync"
+	"github.com/superrxan/rsync/internal/rsyncchecksum"
+	"github.com/superrxan/rsync/internal/rsynccommon"
 	"golang.org/x/sync/errgroup"
 )
 

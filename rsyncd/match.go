@@ -7,9 +7,9 @@ import (
 	"hash"
 	"os"
 
-	"github.com/gokrazy/rsync"
-	"github.com/gokrazy/rsync/internal/rsyncchecksum"
 	"github.com/mmcloughlin/md4"
+	"github.com/superrxan/rsync"
+	"github.com/superrxan/rsync/internal/rsyncchecksum"
 )
 
 // rsync/match.c:hash_search

@@ -1,4 +1,4 @@
-module github.com/gokrazy/rsync
+module github.com/superrxan/rsync
 
 go 1.18
 
@@ -6,6 +6,7 @@ require (
 	github.com/BurntSushi/toml v0.4.1
 	github.com/DavidGamba/go-getoptions v0.23.0
 	github.com/coreos/go-systemd v0.0.0-20191104093116-d3cd4ed1dbcf
+	github.com/gokrazy/rsync v0.1.0
 	github.com/google/go-cmp v0.5.6
 	github.com/google/renameio/v2 v2.0.0
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510

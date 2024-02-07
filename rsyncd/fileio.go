@@ -4,7 +4,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/gokrazy/rsync/internal/log"
+	"github.com/superrxan/rsync/internal/log"
 )
 
 // rsync.h:map_struct

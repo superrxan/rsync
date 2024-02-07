@@ -1,7 +1,7 @@
 package rsync_client
 
 import (
-	"github.com/gokrazy/rsync/internal/receivermaincmd"
+	"github.com/superrxan/rsync/internal/receivermaincmd"
 )
 
 type NopIO struct {

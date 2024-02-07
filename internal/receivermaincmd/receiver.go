@@ -8,9 +8,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/gokrazy/rsync"
-	"github.com/gokrazy/rsync/internal/log"
 	"github.com/mmcloughlin/md4"
+	"github.com/superrxan/rsync"
+	"github.com/superrxan/rsync/internal/log"
 )
 
 // rsync/receiver.c:recv_files

@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/gokrazy/rsync/internal/log"
+	"github.com/superrxan/rsync/internal/log"
 )
 
 const (
